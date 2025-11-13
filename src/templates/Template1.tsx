@@ -90,7 +90,7 @@ const Template1 = () => {
             <div className="relative animate-slide-in-right">
               <img 
                 src="/imagens/app-dashboard.png" 
-                alt="Dashboard do App Poupe Já"
+                alt="Dashboard do App Listzap"
                 className="w-[500px] h-auto mx-auto drop-shadow-2xl"
               />
               {/* Floating Elements */}
@@ -293,7 +293,7 @@ const Template1 = () => {
             <div className="relative animate-slide-in-left">
               <img 
                 src="/imagens/app-macbook-poupeja.png" 
-                alt="App Poupe Já no MacBook"
+                alt="App Listzap no MacBook"
                 className="w-full h-auto rounded-2xl shadow-2xl"
               />
               {/* Floating Elements */}
