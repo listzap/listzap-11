@@ -35,7 +35,19 @@ const Template4 = () => {
                 </Button>
               </div>
               
-              <p className="text-sm text-[#B0B5C1] mt-10 flex items-center justify-center md:justify-start gap-2">✓ 7.000+ pessoas descobriram que NÃO eram desorganizadas. Eram só invisíveis. .<span className="text-[#00BCD4]">✓</span>
+              <p className="text-sm text-[#B0B5C1] mt-10 flex items-center justify-center md:justify-start gap-2">✓ 7.000+ pessoas descobriram que NÃO eram desorganizadas. Eram só invisíveis.   
+
+
+
+
+
+
+
+
+
+
+
+              <span className="text-[#00BCD4]">✓</span>
                 50.000+ pessoas descobriram que NÃO eram desorganizadas. Eram só invisíveis.
               </p>
             </div>
