@@ -44,13 +44,13 @@ const parseFeatures = (envVar: string | undefined, fallback: string[]): string[]
 };
 
 export const appConfig: AppConfig = {
-  company_name: import.meta.env.VITE_COMPANY_NAME || "Poupe Já AI",
-  page_title: import.meta.env.VITE_PAGE_TITLE || "Poupe Já AI - Controle Total das Suas Finanças",
+  company_name: import.meta.env.VITE_COMPANY_NAME || "Listzap",
+  page_title: import.meta.env.VITE_PAGE_TITLE || "Listzap - Controle Total das Suas Finanças",
   page_description: import.meta.env.VITE_PAGE_DESCRIPTION || "Gerencie receitas e despesas pelo App ou WhatsApp. Dashboard completo, metas financeiras e relatórios detalhados. Comece grátis!",
   logo_url: import.meta.env.VITE_LOGO_URL || "https://via.placeholder.com/200x60/4F46E5/FFFFFF?text=LOGO",
   favicon_url: import.meta.env.VITE_FAVICON_URL || "https://via.placeholder.com/32x32/4F46E5/FFFFFF?text=F",
   support_phone: import.meta.env.VITE_SUPPORT_PHONE || "+55 (11) 99999-9999",
-  support_email: import.meta.env.VITE_SUPPORT_EMAIL || "suporte@poupeja.com.br",
+  support_email: import.meta.env.VITE_SUPPORT_EMAIL || "suporte@listzap.com.br",
   support_whatsapp: import.meta.env.VITE_SUPPORT_WHATSAPP || "+5511999999999",
   plan_price_monthly: import.meta.env.VITE_PLAN_PRICE_MONTHLY || "19,90",
   plan_price_annual: import.meta.env.VITE_PLAN_PRICE_ANNUAL || "177,00",

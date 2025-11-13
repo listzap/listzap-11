@@ -90,7 +90,7 @@ const Template2 = () => {
             <div className="relative animate-slide-in-right">
               <img 
                 src="/imagens/app-dashboard.png" 
-                alt="Dashboard do App Poupe Já"
+                alt="Dashboard do App Listzap"
                 className="w-[500px] h-auto mx-auto drop-shadow-2xl"
               />
               {/* Floating Elements */}

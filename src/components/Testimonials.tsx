@@ -4,7 +4,7 @@ const testimonials = [
   {
     name: "Maria Silva",
     role: "Empreendedora",
-    content: "O Poupe Já AI mudou completamente como eu vejo minhas finanças. Consegui economizar 40% mais em apenas 3 meses!",
+    content: "O Listzap mudou completamente como eu vejo minhas finanças. Consegui economizar 40% mais em apenas 3 meses!",
     avatar: "MS",
     rating: 5
   },
